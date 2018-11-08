@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30709478-28fd-43bd-87ce-3a0404af8272" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Paint.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/has-ansi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/has-ansi.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/mime" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/static-server" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/static-server.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/strip-ansi" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/strip-ansi.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/supports-color" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/supports-color.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/typings/index.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/test/conversions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/test/exports.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/test/human.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/test/mocha.opts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/has-ansi/cli.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/has-ansi/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/has-ansi/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/has-ansi/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-wsl/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-wsl/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-wsl/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-wsl/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/cli.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/mime.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/src/build.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/src/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/types.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/opn/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/opn/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/opn/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/opn/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/opn/xdg-open" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/bin/static-server.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/local-install.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/server.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/fixtures/404.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/fixtures/test.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/fixtures/test.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/fixtures/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/fixtures/test.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/mocha.opts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/server.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/cli.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/supports-color/cli.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/supports-color/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/supports-color/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/supports-color/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/paint.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/style.css" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="750">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-864">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paint.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/paint.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2808">
+              <caret line="78" column="2" lean-forward="false" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/style.css" />
+        <option value="$PROJECT_DIR$/src/instrument/instrument.js" />
+        <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/src/paint/paint.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/paint.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="885" />
+    <option name="y" value="316" />
+    <option name="width" value="1797" />
+    <option name="height" value="1355" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Paint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Paint" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30709478-28fd-43bd-87ce-3a0404af8272" name="Default" comment="" />
+      <created>1541665147851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541665147851</updated>
+      <workItem from="1541665149356" duration="12200000" />
+      <workItem from="1541682524878" duration="5936000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18136000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-16" y="-16" width="3232" height="1732" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24142857" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/instrument/instrument.js" />
+    <entry file="file://$PROJECT_DIR$/src/app.js" />
+    <entry file="file://$PROJECT_DIR$/src/style.css" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="3251" column="4" lean-forward="false" selection-start-line="3251" selection-start-column="4" selection-end-line="3251" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paint/paint.js" />
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-864">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paint.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2808">
+          <caret line="78" column="2" lean-forward="false" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
