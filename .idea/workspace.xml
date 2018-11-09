@@ -2,100 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30709478-28fd-43bd-87ce-3a0404af8272" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Paint.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/has-ansi" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/has-ansi.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/mime" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/static-server" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/static-server.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/strip-ansi" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/strip-ansi.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/supports-color" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/supports-color.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/Readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/typings/index.d.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/license" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/test/conversions.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/test/exports.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/test/human.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-size/test/mocha.opts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/has-ansi/cli.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/has-ansi/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/has-ansi/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/has-ansi/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-wsl/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-wsl/license" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-wsl/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-wsl/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/cli.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/mime.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/src/build.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/src/test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/types.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/opn/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/opn/license" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/opn/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/opn/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/opn/xdg-open" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/bin/static-server.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/local-install.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/server.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/fixtures/404.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/fixtures/test.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/fixtures/test.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/fixtures/test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/fixtures/test.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/init.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/mocha.opts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/static-server/test/server.test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/cli.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/supports-color/cli.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/supports-color/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/supports-color/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/supports-color/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/paint.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/style.css" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/paint.js" afterPath="$PROJECT_DIR$/paint.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -109,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="750">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="736">
+              <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -129,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="paint.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="paint.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/paint.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2808">
-              <caret line="78" column="2" lean-forward="false" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="2" />
+            <state relative-caret-position="3024">
+              <caret line="84" column="30" lean-forward="false" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -162,8 +71,8 @@
         <option value="$PROJECT_DIR$/src/instrument/instrument.js" />
         <option value="$PROJECT_DIR$/src/app.js" />
         <option value="$PROJECT_DIR$/src/paint/paint.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/paint.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -222,6 +131,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Елизавета\Desktop\Paint" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -248,15 +162,16 @@
       <option name="presentableId" value="Default" />
       <updated>1541665147851</updated>
       <workItem from="1541665149356" duration="12200000" />
-      <workItem from="1541682524878" duration="5936000" />
+      <workItem from="1541682524878" duration="10381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18136000" />
+    <option name="totallyTimeSpent" value="22581000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3232" height="1732" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -265,7 +180,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24142857" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24142857" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -335,18 +250,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/paint.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2808">
-          <caret line="78" column="2" lean-forward="false" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="2" />
+        <state relative-caret-position="3024">
+          <caret line="84" column="30" lean-forward="false" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
           <folding />
         </state>
       </provider>

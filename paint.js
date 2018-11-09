@@ -1,6 +1,9 @@
-let canvas;
-let context;
-let previousColorElement;
+let canvas,
+    context,
+    previousColorElement,
+    previousThicknessElement,
+    isDrawing;
+let coords = [];
 
 window.onload = function() {
     canvas = document.getElementById("drawingCanvas");
@@ -23,7 +26,6 @@ function changeColor(color, imgElement) {
 }
 
 // Отслеживаем элемент <img> для толщины линии, по которому ранее щелкнули
-var previousThicknessElement;
 
 function changeThickness (thickness, imgElement)
 {
@@ -40,7 +42,6 @@ function changeThickness (thickness, imgElement)
     previousThicknessElement = imgElement;
 }
 
-let isDrawing;
 
 function startDrawing(e) {
     // Начинаем рисовать
@@ -74,10 +75,6 @@ function clearCanvas() {
     context.clearRect(0, 0, canvas.width, canvas.height);
 }
 
-//let url = canvas.toDataURL("image/jpeg");
-
-//window.location = canvas.toDataURL();
-
 function saveCanvas() {
     // Находим элемент <img>
     let imageCopy = document.getElementById("savedImageCopy");
@@ -89,4 +86,8 @@ function saveCanvas() {
     // делая изображение видимым
     let imageContainer = document.getElementById("savedCopyContainer");
     imageContainer.style.display = "block";
+
+    localStorage.getItem("image", imageCopy);
+
+
 }
