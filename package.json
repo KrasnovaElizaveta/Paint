@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "lint": "./node_modules/.bin/eslint paint/**/*.js",
     "start": "./node_modules/.bin/static-server .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +19,9 @@
   },
   "homepage": "https://github.com/KrasnovaElizaveta/Paint#readme",
   "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
     "static-server": "^2.2.1"
   }
 }

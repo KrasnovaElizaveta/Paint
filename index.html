@@ -5,34 +5,49 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="style.css">
-    <script src="paint.js"></script>
+    <script src="paint/paint.js"></script>
     <title>Document</title>
 </head>
 <body>
-<div class="Toolbar">
-    <img id="redPen" src="https://img.icons8.com/wired/50/e74c3c/edit.png" alt="Красная кисть" onclick="changeColor('rgb(212,21,29)', this)">
-    <img id="greenPen" src="https://img.icons8.com/wired/50/2ecc71/edit.png" alt="Зеленая кисть" onclick="changeColor('rgb(131,190,61)', this)">
-    <img id="bluePen" src="https://img.icons8.com/wired/50/3498db/edit.png" alt="Синяя кисть" onclick="changeColor('rgb(0,86,166)', this)">
-    <img id="pingPen" src="https://img.icons8.com/wired/50/F6A2E7/edit.png" alt="Розовая кисть"
-         onclick="changeColor('rgb(255, 192, 203)', this)">
-    <img id="yellowPen" src="https://img.icons8.com/wired/50/FFF383/edit.png" alt="Синяя кисть"
-         onclick="changeColor('rgb(255, 255, 0)', this)">
-</div>
-<div class="Toolbar">
-    <img src="https://img.icons8.com/material-rounded/18/000000/circled.png" alt="Тонкая кисть" onclick="changeThickness(1, this)">
-    <img src="https://img.icons8.com/material-rounded/24/000000/circled.png" alt="Нормальная кисть" onclick="changeThickness(5, this)">
-    <img src="https://img.icons8.com/material-rounded/36/000000/circled.png" alt="Толстая кисть" onclick="changeThickness(10, this)">
-</div>
-<div class="CanvasContainer">
-    <canvas id="drawingCanvas" width="500" height="300"></canvas>
-</div>
-<div class="Toolbar">
-    <button onclick="saveCanvas()">Save</button>
-    <button onclick="clearCanvas()">Clear Canvas</button>
-    <div id="savedCopyContainer">
-        <img id="savedImageCopy"><br>
-        save image ...
+<div class="paint">
+    <div class="paint__toolbar-instrument">
+        <div class="paint__toolbar-color">
+            <img class="paint__img" src="https://img.icons8.com/wired/50/e74c3c/edit.png" alt="Красная кисть"
+                 onclick="changeColor('rgb(212,21,29)', this)">
+            <img class="paint__img" src="https://img.icons8.com/wired/50/2ecc71/edit.png" alt="Зеленая кисть"
+                 onclick="changeColor('rgb(131,190,61)', this)">
+            <img class="paint__img" src="https://img.icons8.com/wired/50/3498db/edit.png" alt="Синяя кисть"
+                 onclick="changeColor('rgb(0,86,166)', this)">
+            <img class="paint__img" src="https://img.icons8.com/wired/50/F6A2E7/edit.png" alt="Розовая кисть"
+                 onclick="changeColor('rgb(255, 192, 203)', this)">
+            <img class="paint__img" src="https://img.icons8.com/wired/50/FFF383/edit.png" alt="Синяя кисть"
+                 onclick="changeColor('rgb(255, 255, 0)', this)">
+        </div>
+        <div class="paint__toolbar-thickness">
+            <div class="paint__img thickness"><img class="thickness__img" src="https://img.icons8.com/material-rounded/18/000000/circled.png" alt="Тонкая кисть" onclick="changeThickness(1, this)"></div>
+            <div class="paint__img thickness"><img class="thickness__img" src="https://img.icons8.com/material-rounded/24/000000/circled.png"
+                                          alt="Нормальная кисть"
+                                         onclick="changeThickness(5, this)"></div>
+                <div class="paint__img thickness"><img class="thickness__img"
+                        src="https://img.icons8.com/material-rounded/36/000000/circled.png"
+                                              alt="Толстая кисть"
+                                             onclick="changeThickness(10, this)"></div>
+        </div>
+    </div>
+    <div class="paint__CanvasContainer">
+        <canvas class="drawingCanvas" width="500" height="300"></canvas>
+    </div>
+    <div class="paint__toolbar-canvas">
+        <div class="paint__batton">
+            <button class="paint__batton-canvas" onclick="saveCanvas()">Save</button>
+            <button class="paint__batton-canvas" onclick="clearCanvas()">Clear Canvas</button>
+        </div>
+        <div class="savedCopyContainer">
+            <img class="savedImageCopy"><br>
+            save image ...
+        </div>
     </div>
 </div>
 </body>

@@ -2,24 +2,79 @@ body {
     background: white;
 }
 
-.Toolbar {
-    float: left;
-    font-family: 'Trebuchet MS';
-    font-size: 14px;
-    font-variant: small-caps;
-    text-align: center;
-    background: #F2F7FE;
-    padding: 10px 15px 3px 10px;
-    margin-bottom: 1px;
-    margin-right: 1px;
-    border: 1px solid #7B899B;
+.paint {
+    width: 502px;
+    margin:100px auto;
 }
 
-.Toolbar button {
-    padding: 6px;
-    margin: 7px 2px;
-    font-variant: normal;
-    font-size: 12px;
+.paint__toolbar-instrument {
+    display: flex;
+    justify-content: space-between;
+    background: #F2F7FE;
+    padding: 15px;
+    margin-bottom: 16px;
+    margin-right: 1px;
+    box-shadow: 0 3px 20px rgba(135, 206, 235);
+    color: white;
+    border-radius: 15px;
+}
+
+.paint__toolbar-thickness {
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.thickness {
+    line-height: 35px;
+}
+
+.thickness__img {
+    vertical-align: middle;
+}
+
+.paint__toolbar-canvas {
+    background: #F2F7FE;
+    padding: 15px;
+    margin-top: 15px;
+    margin-right: 1px;
+    box-shadow: 0 15px 20px rgba(135, 206, 235);
+    color: white;
+    border-radius: 15px;
+    transform: translateY(-7px);
+}
+
+.paint__batton {
+    display: flex;
+    justify-content: space-between;
+}
+
+.paint__batton-canvas {
+    text-decoration: none;
+    outline: none;
+    display: inline-block;
+    width: 140px;
+    height: 45px;
+    line-height: 45px;
+    border-radius: 15px;
+    margin: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: #524f4e;
+    background: white;
+    box-shadow: 0 8px 15px rgba(0,0,0,.1);
+    transition: .3s;
+}
+
+.paint__batton-canvas:hover {
+    background: deepskyblue;
+    box-shadow: 0 15px 20px rgba(135, 206, 235);
+    color: white;
+    transform: translateY(-7px);
 }
 
 .CanvasContainer {
@@ -27,29 +82,34 @@ body {
 }
 
 canvas {
-    border: 1px solid #7B899B;
+    box-shadow: 0 15px 20px rgba(135, 206, 235);
+    color: white;
+    border-radius: 15px;
+    transform: translateY(-7px);
 }
 
-img {
+.paint__img {
     padding: 2px;
     border: 2px solid #F2F7FE;
 }
 
-img:hover {
-    border: 2px groove #E4F0FE;
-    background: white;
+.paint__img:hover {
+    box-shadow: 0 15px 20px rgba(135, 206, 235);
+    color: white;
+    border-radius: 15px;
+    transform: translateY(-7px);
 }
 
 
-img.Selected {
-    border: 2px groove #E4F0FE;
-}
+/*.paint__img.Selected {*/
+    /*box-shadow: 0 15px 20px rgba(135, 206, 235);*/
+/*}*/
 
-#savedCopyContainer {
+.savedCopyContainer {
     display: none;
 }
 
-#savedCopyContainer img {
-    width: 250px;
+.savedCopyContainer img {
+    width: 460px;
     height: 150px;
 }
