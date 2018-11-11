@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="style.css">
-    <script src="paint/paint.js"></script>
+    <script src="paint.js"></script>
     <title>Document</title>
 </head>
 <body>
@@ -27,13 +27,8 @@
         </div>
         <div class="paint__toolbar-thickness">
             <div class="paint__img thickness"><img class="thickness__img" src="https://img.icons8.com/material-rounded/18/000000/circled.png" alt="Тонкая кисть" onclick="changeThickness(1, this)"></div>
-            <div class="paint__img thickness"><img class="thickness__img" src="https://img.icons8.com/material-rounded/24/000000/circled.png"
-                                          alt="Нормальная кисть"
-                                         onclick="changeThickness(5, this)"></div>
-                <div class="paint__img thickness"><img class="thickness__img"
-                        src="https://img.icons8.com/material-rounded/36/000000/circled.png"
-                                              alt="Толстая кисть"
-                                             onclick="changeThickness(10, this)"></div>
+            <div class="paint__img thickness"><img class="thickness__img" src="https://img.icons8.com/material-rounded/24/000000/circled.png" alt="Нормальная кисть" onclick="changeThickness(5, this)"></div>
+            <div class="paint__img thickness"><img class="thickness__img" src="https://img.icons8.com/material-rounded/36/000000/circled.png" alt="Толстая кисть" onclick="changeThickness(10, this)"></div>
         </div>
     </div>
     <div class="paint__CanvasContainer">
@@ -45,8 +40,7 @@
             <button class="paint__batton-canvas" onclick="clearCanvas()">Clear Canvas</button>
         </div>
         <div class="savedCopyContainer">
-            <img class="savedImageCopy"><br>
-            save image ...
+            <img class="savedImageCopy">
         </div>
     </div>
 </div>

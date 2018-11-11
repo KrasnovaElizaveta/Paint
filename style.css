@@ -101,9 +101,10 @@ canvas {
 }
 
 
-/*.paint__img.Selected {*/
-    /*box-shadow: 0 15px 20px rgba(135, 206, 235);*/
-/*}*/
+.Selected {
+    box-shadow: 0 15px 20px rgba(135, 206, 235);
+    border-radius: 15px;
+}
 
 .savedCopyContainer {
     display: none;
