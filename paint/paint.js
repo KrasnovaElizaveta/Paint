@@ -43,7 +43,7 @@ function startDrawing(e) {
 }
 
 function draw(e) {
-  if (isDrawing == true) {
+  if (isDrawing === true) {
     const x = e.pageX - canvas.offsetLeft;
     const y = e.pageY - canvas.offsetTop;
 
@@ -62,11 +62,17 @@ function clearCanvas() {
 
 function saveCanvas() {
   const imageCopy = document.querySelector('.savedImageCopy');
-  localStorage.getItem('image', imageCopy);
-
   imageCopy.src = canvas.toDataURL();
 
   const imageContainer = document.querySelector('.savedCopyContainer');
   imageContainer.style.display = 'block';
+  window.localStorage.canvasImage = canvas.toDataURL();
+}
 
+function loadCanvas() {
+  const img = new Image();
+  img.src = window.localStorage.canvasImage;
+  img.onload = function () {
+    context.drawImage(img, 0, 0);
+  };
 }
